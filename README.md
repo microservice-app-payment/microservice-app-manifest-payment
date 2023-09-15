@@ -2,7 +2,7 @@
 We build Microservice App for application from scratch
 # Techstack
 - Language: Java
-- Cloud : GCP
+- Cloud : AWS
 - Infrastructure as code: Terraform
 - CI/CD: Jenkins, GitHub action
 - Monitoring: Grafana, Prometheus
